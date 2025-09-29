@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.facebook.com/kingbafomacheozela.lamola" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 <a href="https://wa.me/27798022783" target="_blank">
