@@ -28,6 +28,10 @@
 <h3>C# - 48%</h3>
 <table width="100%" border="1" cellspacing="0" cellpadding="0">
   <tr>
+  <td width="48%" bgcolor="#178600">&nbsp;</td>
+    <td width="52%">&nbsp;</td>
+  </tr>
+</table>
 
 ###
 <div align="center">
