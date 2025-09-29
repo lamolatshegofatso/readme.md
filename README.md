@@ -7,7 +7,7 @@
 
 
 ###
-<h2 align="left"><p>I primarily use all this as my IDE for development.</p></h2>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
