@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="Tshegofatso.gif"  />
+<img align="right" height="150" src="Tshegofatso.jpg"  />
 
 
 
