@@ -10,6 +10,8 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img src="WhatsApp Image 2025-09-25 at 14.30.49_5edc6e89" alt="WhatsApp Image" />
+
 
 ###
 
