@@ -1,38 +1,7 @@
 <h2 align="left">Hi 👋! My name is Tshegofatso and I'm a Software Dev </h2>
 
 ###
-<h3>HTML - 70%</h3>
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="70%" bgcolor="#f16529">&nbsp;</td>
-    <td width="30%">&nbsp;</td>
-    <progress value="70" max="100">70%</progress>
-  </tr>
-</table>
 
-<h3>CSS - 63%</h3>
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="63%" bgcolor="#2965f1">&nbsp;</td>
-    <td width="37%">&nbsp;</td>
-  </tr>
-</table>
-
-<h3>JavaScript - 49%</h3>
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="49%" bgcolor="#f0db4f">&nbsp;</td>
-    <td width="51%">&nbsp;</td>
-  </tr>
-</table>
-
-<h3>C# - 48%</h3>
-<table width="100%" border="1" cellspacing="0" cellpadding="0">
-  <tr>
-  <td width="48%" bgcolor="#178600">&nbsp;</td>
-    <td width="52%">&nbsp;</td>
-  </tr>
-</table>
 
 ###
 <div align="center">
@@ -41,8 +10,10 @@
 </div>
 
 ###
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cartoon_cat.svg" alt="Cartoon Cat" height="200" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
