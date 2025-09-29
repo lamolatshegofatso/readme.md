@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm from Alexander....<br><br>- 🔭 I’m working as Software Dev...<br>- 📚 I'm currently learning different languages using different IDEs...<br>- ⚡ In my free time I use Youtube to gain more skills...</p>
+<p align="center">I'm from Alexander....<br><br>- 🔭 I’m working as Software Dev...<br>- 📚 I'm currently learning different languages using different IDEs...<br>- ⚡ In my free time I use Youtube to gain more skills...</p>
 
 ###
 
