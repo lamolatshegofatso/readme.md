@@ -10,6 +10,8 @@
 ###
 
 <img align="right" height="150" src="Tshegofatso.jpg"  />
+<img src="Tshegofatso.jpg" alt="Tshegofatso" align="right" height="150" />
+
 
 
 
