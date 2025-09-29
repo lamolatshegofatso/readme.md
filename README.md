@@ -9,8 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="Tshegofatso.jpg"  />
-<img src="Tshegofatso.jpg" alt="Tshegofatso" align="right" height="150" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Cartoon_cat.svg" alt="Cartoon Cat" height="200" />
+
 
 
 
