@@ -1,17 +1,76 @@
 <h2 align="left">Hi 👋! My name is Tshegofatso and I'm a Software Dev </h2>
 
 ###
-<h3>HTML</h3>
-<progress value="70" max="100">70%</progress>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Skill Stats</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+  }
 
-<h3>CSS</h3>
-<progress value="63" max="100">63%</progress>
+  .skill {
+    margin-bottom: 20px;
+  }
 
-<h3>JavaScript</h3>
-<progress value="49" max="100">49%</progress>
+  .skill-name {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
 
-<h3>C#</h3>
-<progress value="48" max="100">48%</progress>
+  .skill-bar {
+    background-color: #e0e0e0;
+    border-radius: 25px;
+    overflow: hidden;
+  }
+
+  .skill-fill {
+    height: 25px;
+    border-radius: 25px;
+    text-align: right;
+    line-height: 25px;
+    color: white;
+    padding-right: 10px;
+    font-weight: bold;
+  }
+
+  .html { width: 70%; background-color: #f16529; }
+  .css { width: 63%; background-color: #2965f1; }
+  .javascript { width: 49%; background-color: #f0db4f; color: #000; }
+  .csharp { width: 48%; background-color: #178600; }
+</style>
+</head>
+<body>
+
+<div class="skill">
+  <div class="skill-name">HTML</div>
+  <div class="skill-bar">
+    <div class="skill-fill html">70%</div>
+  </div>
+</div>
+
+<div class="skill">
+  <div class="skill-name">CSS</div>
+  <div class="skill-bar">
+    <div class="skill-fill css">63%</div>
+  </div>
+</div>
+
+<div class="skill">
+  <div class="skill-name">JavaScript</div>
+  <div class="skill-bar">
+    <div class="skill-fill javascript">49%</div>
+  </div>
+</div>
+
+<div class="skill">
+  <div class="skill-name">C#</div>
+  <div class="skill-bar">
+    <div class="skill-fill csharp">48%</div>
+  </div>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
