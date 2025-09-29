@@ -1,3 +1,4 @@
+<h1 align="center">Hey there I'm Tshegofatso👋</h1>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -21,7 +22,7 @@
 
 ###
 
-<h1 align="center">Hey there I'm Tshegofatso👋</h1>
+
 
 ###
 
@@ -33,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="Center">🛠 Language and Tools</h3>
 
 ###
 
