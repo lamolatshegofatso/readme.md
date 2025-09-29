@@ -1,6 +1,17 @@
 <h2 align="left">Hi 👋! My name is Tshegofatso and I'm a Software Dev </h2>
 
 ###
+<h3>HTML</h3>
+<progress value="70" max="100">70%</progress>
+
+<h3>CSS</h3>
+<progress value="63" max="100">63%</progress>
+
+<h3>JavaScript</h3>
+<progress value="49" max="100">49%</progress>
+
+<h3>C#</h3>
+<progress value="48" max="100">48%</progress>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
