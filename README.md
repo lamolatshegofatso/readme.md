@@ -6,6 +6,7 @@
   <tr>
     <td width="70%" bgcolor="#f16529">&nbsp;</td>
     <td width="30%">&nbsp;</td>
+    <progress value="70" max="100">70%</progress>
   </tr>
 </table>
 
